@@ -1,0 +1,4 @@
+{
+	"base_url": "http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?",
+	"steam_api_key":"3DF5C3A19E77C55F14DC150FE64E6DE3"
+}
